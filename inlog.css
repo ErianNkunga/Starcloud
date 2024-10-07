@@ -1,0 +1,23 @@
+.login 
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+a.btn {
+    background-color:#fefdffa1
+    
+  }
+
+  .title
+  {
+    position: absolute;
+    top: 28%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    color: rgb(245, 245, 245);
+  }
+
+  
